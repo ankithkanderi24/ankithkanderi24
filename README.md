@@ -1,4 +1,4 @@
-**Hi, I’m Ankith Kanderi!** 
+### **Hi, I’m Ankith Kanderi!** 
 
 I am a second-year computer science student at Georgia Tech, and this is my work!
 
