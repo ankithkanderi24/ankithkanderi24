@@ -1,8 +1,8 @@
 ### **Hi, I’m Ankith Kanderi!** 
 
-I am a fourth-year computer science student at Georgia Tech, and this is my work!
+I am a recent Georgia Tech grad, and this is my work!
 
-- 📝 Find my resume [here!](https://drive.google.com/file/d/1jrKRt1AyOu8EPiRCfhpX4qK7LTonfW6e/view?usp=sharing](https://drive.google.com/file/d/1VBQvmlLxpQ5eIKCLZcMIDqLo5NxLGFDP/view?usp=sharing))
+- 📝 Find my resume [here!](https://drive.google.com/file/d/1EHlsag3n1f2fAus0lX0vLEDzanM60_AF/view?usp=sharing)
 - 📫 Contact me [here!](mailto:ankithkanderi@outlook.com)
 
 <!---
